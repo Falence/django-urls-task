@@ -1,1 +1,1 @@
-# django-urls-task
+# Task title: Django URLs
